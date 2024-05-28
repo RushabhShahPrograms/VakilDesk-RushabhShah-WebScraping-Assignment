@@ -1,0 +1,16 @@
+2024-05-27 22:23:28,203:ERROR:Data insertion failed: column "header" of relation "scraped_data" does not exist
+LINE 2:     INSERT INTO scraped_data (header, url, paragraph)
+                                      ^
+
+2024-05-27 22:23:28,204:ERROR:Data insertion failed: current transaction is aborted, commands ignored until end of transaction block
+
+2024-05-27 22:23:28,204:ERROR:Data insertion failed: current transaction is aborted, commands ignored until end of transaction block
+
+2024-05-27 22:27:50,485:ERROR:Data insertion failed: column "header" of relation "scraped_data" does not exist
+LINE 2:     INSERT INTO scraped_data (header, url, paragraph)
+                                      ^
+
+2024-05-27 22:27:50,485:ERROR:Data insertion failed: current transaction is aborted, commands ignored until end of transaction block
+
+2024-05-27 22:27:50,485:ERROR:Data insertion failed: current transaction is aborted, commands ignored until end of transaction block
+
